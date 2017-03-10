@@ -7,7 +7,7 @@
 
 Think of perceptron as a black-box for now. 
 
-       ____________
+       ------------
 x ---->|Perceptron|----> y
 	   ------------
        
