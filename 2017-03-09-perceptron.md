@@ -7,9 +7,8 @@
 
 Think of perceptron as a black-box for now. 
 
-       ------------
+
 x ---->|Perceptron|----> y
-	   ------------
        
 
 If you train the perceptron box with sufficent training examples, it somehow magically learns to classify the upcoming data. 
